@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(py -m pip install:*)",
+      "Bash(py \"c:\\Users\\kingo\\Downloads\\recpcha v2 v3 ongoing\\api_server.py\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
